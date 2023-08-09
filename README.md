@@ -5,7 +5,7 @@
 
 ## My Notes, simple application to save your notes or things to do.
 <div>
-<img src="/todo.png.png">
+<img src="/todo.png">
 
 <br>
 
